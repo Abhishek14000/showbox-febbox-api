@@ -1,1 +1,9 @@
 DrissionPage==4.0.5.6
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=2.0.0
+asyncio
+pyvirtualdisplay
+playwright-captcha
+camoufox[geoip]
+curl_cffi
